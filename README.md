@@ -1,6 +1,6 @@
 # Lesson: Knowledge Organization with Obsidian
 
-## Maintainers for Incubator: Obsidian Workshop
+## Maintainers
 - [Rabea Müller](https://github.com/RabeaMue)
 
 ---
