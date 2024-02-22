@@ -49,6 +49,4 @@ In this lesson, we will be working with Obsidian, a cross-platform note-taking a
 
 ::::::::::::::::::::::::
 
-:::::::::::::::: spoiler
-
 
