@@ -2,17 +2,9 @@
 title: Setup
 ---
 
-FIXME: Setup instructions live in this document. Please specify the tools and
-the data sets the Learner needs to have installed.
-
 ## Data Sets
 
-<!--
-FIXME: place any data you want learners to use in `episodes/data` and then use
-       a relative link ( [data zip file](data/lesson-data.zip) ) to provide a
-       link to it, replacing the example.com link.
--->
-Download the [data zip file](https://example.com/FIXME) and unzip it to your Desktop
+Download the [Obsidian installer](https://obsidian.md/) suitable for your operating system.
 
 ## Software Setup
 
@@ -20,10 +12,7 @@ Download the [data zip file](https://example.com/FIXME) and unzip it to your Des
 
 ### Details
 
-Setup for different systems can be presented in dropdown menus via a `spoiler`
-tag. They will join to this discussion block, so you can give a general overview
-of the software used in this lesson here and fill out the individual operating
-systems (and potentially add more, e.g. online setup) in the solutions blocks.
+In this lesson, we will be working with Obsidian, a cross-platform note-taking and knowledge management tool. Below are the setup instructions for different operating systems.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -31,7 +20,10 @@ systems (and potentially add more, e.g. online setup) in the solutions blocks.
 
 ### Windows
 
-Use PuTTY
+1. Download the Obsidian installer for Windows from the [Obsidian website](https://obsidian.md/).
+2. Double-click the downloaded installer file to start the installation process.
+3. Follow the on-screen instructions to complete the installation.
+4. Once installed, launch Obsidian from the Start menu or desktop shortcut.
 
 ::::::::::::::::::::::::
 
@@ -39,16 +31,22 @@ Use PuTTY
 
 ### MacOS
 
-Use Terminal.app
+1. Download the Obsidian installer for macOS from the [Obsidian website](https://obsidian.md/).
+2. Open the downloaded `.dmg` file.
+3. Drag the Obsidian app icon into the Applications folder.
+4. Once copied, navigate to the Applications folder and double-click on Obsidian to launch it.
 
 ::::::::::::::::::::::::
-
 
 :::::::::::::::: spoiler
 
 ### Linux
 
-Use Terminal
+1. Download the Obsidian AppImage or Debian package for Linux from the [Obsidian website](https://obsidian.md/).
+2. If you downloaded the AppImage, make it executable by running `chmod +x Obsidian-*.AppImage` in the terminal.
+3. Double-click the AppImage file or run `./Obsidian-*.AppImage` in the terminal to launch Obsidian.
+4. If you downloaded the Debian package, you can install it using your system's package manager, e.g., `sudo apt install ./obsidian-*.deb`.
 
 ::::::::::::::::::::::::
+
 
