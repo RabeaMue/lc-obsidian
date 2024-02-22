@@ -1,8 +1,7 @@
-# Incubator: Obsidian Workshop
+# Lesson: Knowledge Organization with Obsidian
 
 ## Maintainers for Incubator: Obsidian Workshop
 - [Rabea Müller](https://github.com/RabeaMue)
-- 
 
 ---
 
